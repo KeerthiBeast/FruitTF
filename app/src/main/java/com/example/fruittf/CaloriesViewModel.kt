@@ -18,7 +18,7 @@ class CaloriesViewModel(): ViewModel() {
     private fun setImages() {
         images["Apple"] = R.drawable.apple
         images["Banana"] = R.drawable.banana
-        images["Grapes"] = R.drawable.grapes
+        images["Grape"] = R.drawable.grapes
         images["Mango"] = R.drawable.mango
         images["Strawberry"] = R.drawable.strawberry
     }
